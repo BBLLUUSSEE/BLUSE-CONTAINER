@@ -1,0 +1,204 @@
+/*----------------------------CREDITS------------------------------
+--------        Script made by Bluse and Invrokaaah        --------
+------   Copyright 2021 BluseStudios. All rights reserved   -------
+-----------------------------------------------------------------*/
+
+/*   BODY HTML CSS   */
+*{
+    color: #fff;
+	font-family: Arial, Helvetica, sans-serif;
+	padding: 0;
+	margin: 0;
+}
+
+html{
+    font-size: 10px;
+}
+
+body{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #eee;
+    background-color: #eee;
+    text-align: center;
+	background-color: rgba(0,0,0,0);
+}
+
+
+
+
+
+
+/*   FIRST CARD FOR BUY A CONTAINER   */
+#card1{
+    width: 28rem;
+    font-family: "Open Sans", sans-serif;
+    background-color: #4A4545;
+    box-shadow: 5px 5px 1rem rgba(0,0,0,.1);
+    border-radius: 2rem;
+    display: none;
+}
+
+.image-container1{
+    height: 18rem;
+}
+
+.image1{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 2rem
+}
+
+.info-container1{
+    padding: 2rem;
+}
+
+.heading1{
+    font-size: 3rem;
+    font-family: 'Playfair Display', sans-serif;
+    margin-bottom: 1rem;
+}
+
+.paragraph1{
+    font-size: 1.6rem;
+}
+
+.btn1{
+    display: inline-block;
+    font-size: 1.2rem;
+    color: #4A4545;
+    background-color: #fff;
+    text-decoration: none;
+    text-transform: uppercase;
+    padding: 1rem 2rem;
+    margin-top: 2.5rem;
+    border-radius: 2rem;
+    box-shadow: 1px 2px 1rem rgba(0,0,0,.1);
+    transition: background-color .5s;
+}
+
+.btn1:hover{
+    background-color: rgba(0,0,0,.1);
+	color: white;
+}
+
+
+
+
+
+
+/*   SECOND CARD FOR OPEN YOUR CONTAINER   */
+#card2{
+    width: 28rem;
+    font-family: "Open Sans", sans-serif;
+    background-color: #4A4545;
+    box-shadow: 5px 5px 1rem rgba(0,0,0,.1);
+    border-radius: 2rem;
+    display: none;
+}
+
+.image-container2{
+    height: 18rem;
+}
+
+.image2{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 2rem
+}
+
+.info-container2{
+    padding: 2rem;
+}
+
+.heading2{
+    font-size: 3rem;
+    font-family: 'Playfair Display', sans-serif;
+    margin-bottom: 1rem;
+}
+
+.paragraph2{
+    font-size: 1.6rem;
+}
+
+.btn2{
+    display: inline-block;
+    font-size: 1.2rem;
+    color: #4A4545;
+    background-color: #fff;
+    text-decoration: none;
+    text-transform: uppercase;
+    padding: 1rem 2rem;
+    margin-top: 2.5rem;
+    border-radius: 2rem;
+    box-shadow: 1px 2px 1rem rgba(0,0,0,.1);
+    transition: background-color .5s;
+}
+
+.btn2:hover{
+    background-color: rgba(0,0,0,.1);
+	color: white;
+}
+
+
+
+
+
+
+/*   THIRD CARD FOR STOP RENTING YOUR CONTAINER   */
+#card3{
+    width: 28rem;
+    font-family: "Open Sans", sans-serif;
+    background-color: #4A4545;
+    box-shadow: 5px 5px 1rem rgba(0,0,0,.1);
+    border-radius: 2rem;
+    display: none;
+}
+
+.image-container3{
+    height: 18rem;
+}
+
+.image3{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 2rem
+}
+
+.info-container3{
+    padding: 2rem;
+}
+
+.heading3{
+    font-size: 3rem;
+    font-family: 'Playfair Display', sans-serif;
+    margin-bottom: 1rem;
+}
+
+.paragraph3{
+    font-size: 1.6rem;
+}
+
+.btn3{
+    display: inline-block;
+    font-size: 1.2rem;
+    color: #4A4545;
+    background-color: #fff;
+    text-decoration: none;
+    text-transform: uppercase;
+    padding: 1rem 2rem;
+    margin-top: 2.5rem;
+    border-radius: 2rem;
+    box-shadow: 1px 2px 1rem rgba(0,0,0,.1);
+    transition: background-color .5s;
+}
+
+.btn3:hover{
+    background-color: rgba(0,0,0,.1);
+	color: white;
+}
