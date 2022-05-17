@@ -3,13 +3,11 @@
 ## v1.0.0
 
 ### Added or Changed
-- Added this changelog :)
-- Fixed typos in both templates
-- Back to top links
-- Added more "Built With" frameworks/libraries
-- Changed table of contents to start collapsed
-- Added checkboxes for major features on roadmap
+- Added a GUI
+- Fixed some bug
 
 ### Removed
+- Removed some unnecessary lines of code
 
-- Some packages/libraries from acknowledgements I no longer use
+### Need to fix
+-There is a bug with notifications
