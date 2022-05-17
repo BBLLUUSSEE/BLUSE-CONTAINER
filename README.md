@@ -16,7 +16,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="https://forum.cfx.re/uploads/default/original/4X/9/9/3/993312b00ec624cde687b688cf3d1bef54de26a1.jpeg" alt="Logo" width="80" height="80">
+    <img src="image/logo.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Best-README-Template</h3>
