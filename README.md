@@ -47,6 +47,9 @@ This script has been programmed with the following programming languages
 
 * [Lua](https://www.lua.org/)
 * [SQL](https://www.mysql.com/)
+* [JavaScript](https://www.javascript.com/)
+* [CSS](https://www.w3schools.com/css/default.asp)
+* [HTML](https://www.w3schools.com/html/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
