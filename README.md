@@ -102,8 +102,6 @@ Email: [lucapacinotti1@gmail.com](https://www.google.com/intl/it/gmail/about/)
 <!-- ACKNOWLEDGMENTS -->
 ## Preview
 
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
-
 * [Video](https://streamable.com/ygh0za)
 * [Cfx.re](https://forum.cfx.re/t/paid-release-bluse-container-esx/4778924)
 
